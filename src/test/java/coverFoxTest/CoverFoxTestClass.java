@@ -37,7 +37,6 @@ public class CoverFoxTestClass extends base {
 	@BeforeClass
 	public void launchApplication() throws IOException
 	{
-		Reporter.log("Launching Browser", true);	
 		launchBrowser();
 	}
 	
@@ -99,7 +98,6 @@ public class CoverFoxTestClass extends base {
 	@AfterClass
 	public void closeApplication()
 	{
-		Reporter.log("Closing Browser",true);
 		closeBrowser();
 	}
 }
