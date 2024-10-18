@@ -116,9 +116,10 @@ public class CoverFoxValidateErrorMsg extends base {
 	}
 
 	@AfterMethod
-	public void closeApplication()
+	public void closeApplication() 
 	{
 		logger.info("Closing Browser");
 		closeBrowser();
+	
 	}
 }

@@ -8,6 +8,9 @@
       <![CDATA[Waiting for application launch...]]>
     </line>
     <line>
+      <![CDATA[Application Luanched]]>
+    </line>
+    <line>
       <![CDATA[Clicking on gender button...]]>
     </line>
     <line>
@@ -36,6 +39,9 @@
     </line>
     <line>
       <![CDATA[Waiting for application launch...]]>
+    </line>
+    <line>
+      <![CDATA[Application Luanched]]>
     </line>
     <line>
       <![CDATA[Clicking on gender button...]]>
@@ -68,6 +74,9 @@
       <![CDATA[Waiting for application launch...]]>
     </line>
     <line>
+      <![CDATA[Application Luanched]]>
+    </line>
+    <line>
       <![CDATA[Clicking on gender button...]]>
     </line>
     <line>
@@ -89,18 +98,21 @@
       <![CDATA[Closing Application...]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-10-14T09:59:18 IST" name="Suite" finished-at="2024-10-14T10:00:22 IST" duration-ms="63656">
+  <suite started-at="2024-10-18T12:42:10 IST" name="Suite" finished-at="2024-10-18T12:43:26 IST" duration-ms="75564">
     <groups>
     </groups>
-    <test started-at="2024-10-14T09:59:18 IST" name="Test" finished-at="2024-10-14T10:00:22 IST" duration-ms="63656">
+    <test started-at="2024-10-18T12:42:10 IST" name="Test" finished-at="2024-10-18T12:43:26 IST" duration-ms="75564">
       <class name="coverFoxTest.CoverFoxValidateErrorMsg">
-        <test-method is-config="true" signature="enterDetails()[pri:0, instance:coverFoxTest.CoverFoxValidateErrorMsg@179ece50]" started-at="2024-10-14T09:59:18 IST" name="enterDetails" finished-at="2024-10-14T09:59:38 IST" duration-ms="20047" status="PASS">
+        <test-method is-config="true" signature="enterDetails()[pri:0, instance:coverFoxTest.CoverFoxValidateErrorMsg@179ece50]" started-at="2024-10-18T12:42:10 IST" name="enterDetails" finished-at="2024-10-18T12:42:33 IST" duration-ms="22581" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Launching Application...]]>
             </line>
             <line>
               <![CDATA[Waiting for application launch...]]>
+            </line>
+            <line>
+              <![CDATA[Application Luanched]]>
             </line>
             <line>
               <![CDATA[Clicking on gender button...]]>
@@ -116,7 +128,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- enterDetails -->
-        <test-method signature="validatePinCodeErrorMsg()[pri:-1, instance:coverFoxTest.CoverFoxValidateErrorMsg@179ece50]" started-at="2024-10-14T09:59:38 IST" name="validatePinCodeErrorMsg" finished-at="2024-10-14T09:59:44 IST" duration-ms="5558" status="PASS">
+        <test-method signature="validatePinCodeErrorMsg()[pri:-1, instance:coverFoxTest.CoverFoxValidateErrorMsg@179ece50]" started-at="2024-10-18T12:42:33 IST" name="validatePinCodeErrorMsg" finished-at="2024-10-18T12:42:38 IST" duration-ms="5478" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Entering mobile number...]]>
@@ -129,20 +141,23 @@
             </line>
           </reporter-output>
         </test-method> <!-- validatePinCodeErrorMsg -->
-        <test-method is-config="true" signature="closeApplication()[pri:0, instance:coverFoxTest.CoverFoxValidateErrorMsg@179ece50]" started-at="2024-10-14T09:59:44 IST" name="closeApplication" finished-at="2024-10-14T09:59:44 IST" duration-ms="352" status="PASS">
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:coverFoxTest.CoverFoxValidateErrorMsg@179ece50]" started-at="2024-10-18T12:42:38 IST" name="closeApplication" finished-at="2024-10-18T12:42:42 IST" duration-ms="3440" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Closing Application...]]>
             </line>
           </reporter-output>
         </test-method> <!-- closeApplication -->
-        <test-method is-config="true" signature="enterDetails()[pri:0, instance:coverFoxTest.CoverFoxValidateErrorMsg@179ece50]" started-at="2024-10-14T09:59:44 IST" name="enterDetails" finished-at="2024-10-14T09:59:59 IST" duration-ms="14993" status="PASS">
+        <test-method is-config="true" signature="enterDetails()[pri:0, instance:coverFoxTest.CoverFoxValidateErrorMsg@179ece50]" started-at="2024-10-18T12:42:42 IST" name="enterDetails" finished-at="2024-10-18T12:42:56 IST" duration-ms="13888" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Launching Application...]]>
             </line>
             <line>
               <![CDATA[Waiting for application launch...]]>
+            </line>
+            <line>
+              <![CDATA[Application Luanched]]>
             </line>
             <line>
               <![CDATA[Clicking on gender button...]]>
@@ -158,7 +173,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- enterDetails -->
-        <test-method signature="validateMobileNumErrorMsg()[pri:0, instance:coverFoxTest.CoverFoxValidateErrorMsg@179ece50]" started-at="2024-10-14T09:59:59 IST" name="validateMobileNumErrorMsg" finished-at="2024-10-14T10:00:05 IST" duration-ms="5448" status="PASS">
+        <test-method signature="validateMobileNumErrorMsg()[pri:0, instance:coverFoxTest.CoverFoxValidateErrorMsg@179ece50]" started-at="2024-10-18T12:42:56 IST" name="validateMobileNumErrorMsg" finished-at="2024-10-18T12:43:01 IST" duration-ms="5432" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Entering pincode...]]>
@@ -171,20 +186,23 @@
             </line>
           </reporter-output>
         </test-method> <!-- validateMobileNumErrorMsg -->
-        <test-method is-config="true" signature="closeApplication()[pri:0, instance:coverFoxTest.CoverFoxValidateErrorMsg@179ece50]" started-at="2024-10-14T10:00:05 IST" name="closeApplication" finished-at="2024-10-14T10:00:05 IST" duration-ms="629" status="PASS">
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:coverFoxTest.CoverFoxValidateErrorMsg@179ece50]" started-at="2024-10-18T12:43:01 IST" name="closeApplication" finished-at="2024-10-18T12:43:05 IST" duration-ms="3621" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Closing Application...]]>
             </line>
           </reporter-output>
         </test-method> <!-- closeApplication -->
-        <test-method is-config="true" signature="enterDetails()[pri:0, instance:coverFoxTest.CoverFoxValidateErrorMsg@179ece50]" started-at="2024-10-14T10:00:05 IST" name="enterDetails" finished-at="2024-10-14T10:00:18 IST" duration-ms="12752" status="PASS">
+        <test-method is-config="true" signature="enterDetails()[pri:0, instance:coverFoxTest.CoverFoxValidateErrorMsg@179ece50]" started-at="2024-10-18T12:43:05 IST" name="enterDetails" finished-at="2024-10-18T12:43:19 IST" duration-ms="14096" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Launching Application...]]>
             </line>
             <line>
               <![CDATA[Waiting for application launch...]]>
+            </line>
+            <line>
+              <![CDATA[Application Luanched]]>
             </line>
             <line>
               <![CDATA[Clicking on gender button...]]>
@@ -200,7 +218,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- enterDetails -->
-        <test-method signature="validateErrMsgs()[pri:1, instance:coverFoxTest.CoverFoxValidateErrorMsg@179ece50]" started-at="2024-10-14T10:00:18 IST" name="validateErrMsgs" finished-at="2024-10-14T10:00:21 IST" duration-ms="3394" status="PASS">
+        <test-method signature="validateErrMsgs()[pri:1, instance:coverFoxTest.CoverFoxValidateErrorMsg@179ece50]" started-at="2024-10-18T12:43:19 IST" name="validateErrMsgs" finished-at="2024-10-18T12:43:22 IST" duration-ms="3317" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Clicking on continue button...]]>
@@ -210,7 +228,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- validateErrMsgs -->
-        <test-method is-config="true" signature="closeApplication()[pri:0, instance:coverFoxTest.CoverFoxValidateErrorMsg@179ece50]" started-at="2024-10-14T10:00:21 IST" name="closeApplication" finished-at="2024-10-14T10:00:22 IST" duration-ms="362" status="PASS">
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:coverFoxTest.CoverFoxValidateErrorMsg@179ece50]" started-at="2024-10-18T12:43:22 IST" name="closeApplication" finished-at="2024-10-18T12:43:26 IST" duration-ms="3560" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Closing Application...]]>
