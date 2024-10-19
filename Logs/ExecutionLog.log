@@ -634,3 +634,51 @@
 2024-10-19 14:06:13,728 - MyMavenProject -WARN - Please enter valid pincode
 2024-10-19 14:06:13,729 - MyMavenProject -INFO - Click on continue button..
 2024-10-19 14:06:16,982 - MyMavenProject -INFO - Closing Browser
+2024-10-19 14:19:38,064 - MyMavenProject -INFO - Click on gender button..
+2024-10-19 14:19:41,728 - MyMavenProject -INFO - Click on next button..
+2024-10-19 14:19:43,841 - MyMavenProject -INFO - Handling age dropdown
+2024-10-19 14:19:48,129 - MyMavenProject -INFO - click on next button..
+2024-10-19 14:19:50,289 - MyMavenProject -INFO - Enter mobile number..
+2024-10-19 14:19:52,632 - MyMavenProject -WARN - Please enter valid mobile number
+2024-10-19 14:19:52,634 - MyMavenProject -INFO - Click on continue button..
+2024-10-19 14:19:55,967 - MyMavenProject -INFO - Closing Browser
+2024-10-19 14:20:04,627 - MyMavenProject -INFO - Click on gender button..
+2024-10-19 14:20:07,368 - MyMavenProject -INFO - Click on next button..
+2024-10-19 14:20:09,544 - MyMavenProject -INFO - Handling age dropdown
+2024-10-19 14:20:12,106 - MyMavenProject -INFO - click on next button..
+2024-10-19 14:20:14,298 - MyMavenProject -INFO - Enter pincode..
+2024-10-19 14:20:16,517 - MyMavenProject -WARN - Please enter valid pincode
+2024-10-19 14:20:16,518 - MyMavenProject -INFO - Enter mobile number..
+2024-10-19 14:20:18,749 - MyMavenProject -WARN - Please enter valid mobile number
+2024-10-19 14:20:18,750 - MyMavenProject -INFO - Click on continue button..
+2024-10-19 14:23:21,841 - MyMavenProject -INFO - Click on gender button..
+2024-10-19 14:23:24,709 - MyMavenProject -INFO - Click on next button..
+2024-10-19 14:23:26,929 - MyMavenProject -INFO - Handling age dropdown
+2024-10-19 14:23:30,793 - MyMavenProject -INFO - click on next button..
+2024-10-19 14:23:32,932 - MyMavenProject -INFO - Enter pincode..
+2024-10-19 14:23:35,201 - MyMavenProject -WARN - Please enter valid pincode
+2024-10-19 14:23:35,203 - MyMavenProject -INFO - Enter mobile number..
+2024-10-19 14:23:37,453 - MyMavenProject -WARN - Please enter valid mobile number
+2024-10-19 14:23:37,454 - MyMavenProject -INFO - Click on continue button..
+2024-10-19 14:23:50,488 - MyMavenProject -INFO - Click on gender button..
+2024-10-19 14:23:53,258 - MyMavenProject -INFO - Click on next button..
+2024-10-19 14:23:55,436 - MyMavenProject -INFO - Handling age dropdown
+2024-10-19 14:23:57,757 - MyMavenProject -INFO - click on next button..
+2024-10-19 14:23:59,863 - MyMavenProject -INFO - Enter mobile number..
+2024-10-19 14:24:02,089 - MyMavenProject -WARN - Please enter valid mobile number
+2024-10-19 14:24:02,090 - MyMavenProject -INFO - Click on continue button..
+2024-10-19 14:24:05,304 - MyMavenProject -INFO - Closing Browser
+2024-10-19 14:24:12,233 - MyMavenProject -INFO - Click on gender button..
+2024-10-19 14:24:14,921 - MyMavenProject -INFO - Click on next button..
+2024-10-19 14:24:17,082 - MyMavenProject -INFO - Handling age dropdown
+2024-10-19 14:24:19,488 - MyMavenProject -INFO - click on next button..
+2024-10-19 14:24:21,589 - MyMavenProject -INFO - Enter pincode..
+2024-10-19 14:24:23,917 - MyMavenProject -WARN - Please enter valid pincode
+2024-10-19 14:24:23,918 - MyMavenProject -INFO - Click on continue button..
+2024-10-19 14:24:27,118 - MyMavenProject -INFO - Closing Browser
+2024-10-19 14:24:33,635 - MyMavenProject -INFO - Click on gender button..
+2024-10-19 14:24:36,463 - MyMavenProject -INFO - Click on next button..
+2024-10-19 14:24:38,642 - MyMavenProject -INFO - Handling age dropdown
+2024-10-19 14:24:40,930 - MyMavenProject -INFO - click on next button..
+2024-10-19 14:24:43,054 - MyMavenProject -INFO - Click on continue button..
+2024-10-19 14:24:46,401 - MyMavenProject -INFO - Closing Browser

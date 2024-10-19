@@ -68,8 +68,8 @@
           <version>3.5.1</version>
           <configuration>
             <suiteXmlFiles>
-            <suiteXmlFile>ValidateErrorMsgs_testng.xml</suiteXmlFile>
             <suiteXmlFile>coverFoxtestng.xml</suiteXmlFile>
+            <suiteXmlFile>ValidateErrorMsgs_testng.xml</suiteXmlFile>
             </suiteXmlFiles>
           </configuration>
         </plugin>
