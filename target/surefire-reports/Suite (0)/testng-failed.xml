@@ -7,15 +7,14 @@
   </listeners>
   <test thread-count="5" name="Test(failed)" verbose="0">
     <classes>
-      <class name="coverFoxTest.CoverFoxValidateErrorMsg">
+      <class name="coverFoxTest.CoverFoxTestClass">
         <methods>
           <include name="enterDetails"/>
-          <include name="validateMobileNumErrorMsg"/>
-          <include name="validateErrMsgs"/>
           <include name="closeApplication"/>
-          <include name="validatePinCodeErrorMsg"/>
+          <include name="launchApplication"/>
+          <include name="validatePolicyCount"/>
         </methods>
-      </class> <!-- coverFoxTest.CoverFoxValidateErrorMsg -->
+      </class> <!-- coverFoxTest.CoverFoxTestClass -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite (0)] -->

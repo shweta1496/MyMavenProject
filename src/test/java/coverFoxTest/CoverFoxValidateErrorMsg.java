@@ -116,10 +116,11 @@ public class CoverFoxValidateErrorMsg extends base {
 	}
 
 	@AfterMethod
-	public void closeApplication() 
+	public void closeApplication() throws InterruptedException 
 	{
 		logger.info("Closing Browser");
 		closeBrowser();
+		Thread.sleep(3000);
 	
 	}
 }

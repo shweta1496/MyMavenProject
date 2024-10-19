@@ -10,7 +10,6 @@
       <class name="coverFoxTest.CoverFoxValidateErrorMsg">
         <methods>
           <include name="enterDetails"/>
-          <include name="validateMobileNumErrorMsg"/>
           <include name="validateErrMsgs"/>
           <include name="closeApplication"/>
         </methods>
