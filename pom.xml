@@ -69,6 +69,7 @@
           <configuration>
             <suiteXmlFiles>
             <suiteXmlFile>ValidateErrorMsgs_testng.xml</suiteXmlFile>
+            <suiteXmlFile>coverFoxtestng.xml</suiteXmlFile>
             </suiteXmlFiles>
           </configuration>
         </plugin>
