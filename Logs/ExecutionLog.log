@@ -682,3 +682,34 @@
 2024-10-19 14:24:40,930 - MyMavenProject -INFO - click on next button..
 2024-10-19 14:24:43,054 - MyMavenProject -INFO - Click on continue button..
 2024-10-19 14:24:46,401 - MyMavenProject -INFO - Closing Browser
+2024-10-19 14:47:12,625 - MyMavenProject -INFO - Click on gender button..
+2024-10-19 14:47:15,410 - MyMavenProject -INFO - Click on next button..
+2024-10-19 14:47:17,551 - MyMavenProject -INFO - Handling age dropdown
+2024-10-19 14:47:21,097 - MyMavenProject -INFO - click on next button..
+2024-10-19 14:47:23,203 - MyMavenProject -INFO - Enter pincode..
+2024-10-19 14:47:25,427 - MyMavenProject -WARN - Please enter valid pincode
+2024-10-19 14:47:25,428 - MyMavenProject -INFO - Enter mobile number..
+2024-10-19 14:47:27,661 - MyMavenProject -WARN - Please enter valid mobile number
+2024-10-19 14:47:27,662 - MyMavenProject -INFO - Click on continue button..
+2024-10-19 14:47:40,614 - MyMavenProject -INFO - Click on gender button..
+2024-10-19 14:47:43,306 - MyMavenProject -INFO - Click on next button..
+2024-10-19 14:47:45,621 - MyMavenProject -INFO - Handling age dropdown
+2024-10-19 14:47:47,894 - MyMavenProject -INFO - click on next button..
+2024-10-19 14:47:49,977 - MyMavenProject -INFO - Enter mobile number..
+2024-10-19 14:47:52,248 - MyMavenProject -WARN - Please enter valid mobile number
+2024-10-19 14:47:52,249 - MyMavenProject -INFO - Click on continue button..
+2024-10-19 14:47:55,459 - MyMavenProject -INFO - Closing Browser
+2024-10-19 14:48:02,318 - MyMavenProject -INFO - Click on gender button..
+2024-10-19 14:48:05,154 - MyMavenProject -INFO - Click on next button..
+2024-10-19 14:48:07,342 - MyMavenProject -INFO - Handling age dropdown
+2024-10-19 14:48:09,641 - MyMavenProject -INFO - click on next button..
+2024-10-19 14:48:11,777 - MyMavenProject -INFO - Enter pincode..
+2024-10-19 14:48:14,119 - MyMavenProject -WARN - Please enter valid pincode
+2024-10-19 14:48:14,120 - MyMavenProject -INFO - Click on continue button..
+2024-10-19 14:48:17,312 - MyMavenProject -INFO - Closing Browser
+2024-10-19 14:48:22,580 - MyMavenProject -INFO - Click on gender button..
+2024-10-19 14:48:26,530 - MyMavenProject -INFO - Click on next button..
+2024-10-19 14:48:28,657 - MyMavenProject -INFO - Handling age dropdown
+2024-10-19 14:48:31,118 - MyMavenProject -INFO - click on next button..
+2024-10-19 14:48:33,262 - MyMavenProject -INFO - Click on continue button..
+2024-10-19 14:48:36,616 - MyMavenProject -INFO - Closing Browser
