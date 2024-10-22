@@ -94,6 +94,7 @@ public class CoverFoxTestClass extends base {
 		int bannerCount = resultsPage.getCountFromBannerPage();
 		Assert.assertEquals(textCount, bannerCount, "text count not matching with banner count, TC failed");
 		Thread.sleep(3000);
+		Reporter.log("Updated code by Bhagyashree");
 	}
 
 	@AfterClass
