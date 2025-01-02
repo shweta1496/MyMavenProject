@@ -6,6 +6,7 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.apache.poi.EncryptedDocumentException;
 import org.testng.Assert;
+import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
@@ -36,6 +37,7 @@ public class CoverFoxTestClass extends base {
 	@BeforeClass
 	public void launchApplication() throws IOException
 	{
+		Reporter.log("Launching Browser", true);	
 		launchBrowser();
 	}
 	
@@ -95,9 +97,10 @@ public class CoverFoxTestClass extends base {
 	}
 
 	@AfterClass
-	public void closeApplication() throws InterruptedException
+	public void closeApplication()
 	{
+		Reporter.log("Closing Browser",true);
 		closeBrowser();
-		Thread.sleep(3000);		
 	}
 }
+
